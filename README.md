@@ -4,10 +4,8 @@ Fuck you
 Ghosting me too!!!!
 <br>
 Discord: https://discord.isnow.dev
-
-Release at 25 GITHUB stars
-Sharing this repo == Faster release!
+Thank you for 25 stars! Sorry for the long delay.
 <br>
-Redirect: https://gitea.com/Isnow/Vulcan-Anticheat/
+Redirect: https://t.me/mkrelease
 
 If you want to share, credit me by linking this repo
